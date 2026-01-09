@@ -1,0 +1,16 @@
+cat
+dog
+CAT
+DOG
+UMBRELLA
+FOOD
+JAVA1
+JAVA2
+java1
+java2
+cat cat
+dog dog
+Umbrella Umbrella
+food food
+java1 java1
+java2 java2
